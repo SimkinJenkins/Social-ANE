@@ -62,6 +62,7 @@
 
 - (BOOL) launchService
 {
+
     SLComposeViewControllerCompletionHandler __block completionHandler = ^(SLComposeViewControllerResult result)
     {
         [controller dismissViewControllerAnimated:YES completion:nil];

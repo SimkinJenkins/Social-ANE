@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/sticksports/nativeExtensions/social/Social" mod="1359480962000" signatureChecksum="1880272640" >
+        <def id="com.sticksports.nativeExtensions.social:Social" /> 
+        <dep id="com.sticksports.nativeExtensions.social:SocialService" type="s" /> 
+        <dep id="flash.display:BitmapData" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="com/sticksports/nativeExtensions/social/SocialEvent" mod="1359388468000" signatureChecksum="2123586229" >
+        <def id="com.sticksports.nativeExtensions.social:SocialEvent" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:Event" type="i" /> 
+      </script>
+      <script name="com/sticksports/nativeExtensions/social/SocialService" mod="1359450187000" signatureChecksum="2877643524" >
+        <def id="com.sticksports.nativeExtensions.social:SocialService" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/sticksports/nativeExtensions/social/InternalMessages" mod="1359388463000" signatureChecksum="1922646441" >
+        <def id="com.sticksports.nativeExtensions.social:InternalMessages" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_95f9b0a8b01551eeadf74f8250ed48e7714fc37358459a397bca5f5363f0c218_flash_display_Sprite" mod="1359481987642" signatureChecksum="935098873" >
+        <def id="_95f9b0a8b01551eeadf74f8250ed48e7714fc37358459a397bca5f5363f0c218_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="45985a92957bc69d5b12ea83eb5b07aaf11d74da45b436ee4e0afb4cddbb7d2d"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
